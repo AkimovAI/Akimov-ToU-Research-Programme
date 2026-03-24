@@ -1,3 +1,12 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19198910.svg)](https://doi.org/10.5281/zenodo.19198910)
+
+
+## Citation / DOI
+
+This work is publicly archived and citable via Zenodo:
+
+DOI: https://doi.org/10.5281/zenodo.19198910
+
 # Akimov Theory of Unity (ToU)
 
 **Author:** Ing. Alex Akimov  
