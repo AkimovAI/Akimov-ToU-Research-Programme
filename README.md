@@ -1,4 +1,7 @@
 # Akimov Theory of Unity (ToU)
+Author: Ing. Alex Akimov
+Year: 2026
+Status: Under submission (arXiv)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19207652.svg)](https://doi.org/10.5281/zenodo.19207652)
 
