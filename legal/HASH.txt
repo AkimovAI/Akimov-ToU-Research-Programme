@@ -1,0 +1,13 @@
+File: Akimov_ToU_v1.4_Submission_EN.pdf
+SHA-256: adfe5ee3d0b7550dc0a222b3cba5801456c1cd6bed214a0916bfab199cf591ab
+
+Author: Ing. Alex Akimov
+Date: 2026-03-24
+
+Description:
+This hash certifies the exact immutable version of the submitted research document.
+
+The document is publicly registered via Zenodo with DOI:
+10.5281/zenodo.19197979
+
+This record serves as cryptographic proof of authorship, integrity, and timestamp.
