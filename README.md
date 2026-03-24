@@ -6,7 +6,47 @@
 This work is publicly archived and citable via Zenodo:
 
 DOI: https://doi.org/10.5281/zenodo.19198910
+---
 
+## Quick Entry Overview
+
+### Akimov Theory of Unity (ToU)  
+**A Minimal Entry Overview**
+
+**Author:** Ing. Alex Akimov  
+**Year:** 2026
+
+---
+
+### 1. Core Question
+
+What is a “perspective” in a complex system?
+
+Rather than treating perspective (or consciousness) as an intrinsic property, the Akimov Theory of Unity (ToU) approaches it as a structural and dynamical phenomenon.
+
+### 2. Central Hypothesis
+
+A perspective emerges when the interaction between two internal components of a system stabilizes into a coherent configuration:
+
+- **world-model (M_w)**
+- **self-model (M_s)**
+
+Perspective is defined as a stable attractor in the joint dynamics of **(M_w, M_s)**.
+
+### 3. Key Idea
+
+**Consciousness is not a thing, but a mode of organization.**
+
+### 4. Formal View
+
+**(M_w, M_s) → attractor**
+
+### 5. Status
+
+Conceptual and formal research framework.  
+Defines a structured basis for future empirical and computational testing.
+
+---
 # Akimov Theory of Unity (ToU)
 
 **Author:** Ing. Alex Akimov  
