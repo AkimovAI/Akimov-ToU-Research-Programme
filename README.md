@@ -65,6 +65,18 @@ It proposes that what we call "perspective" (or conscious viewpoint) is not an i
 
 ---
 
+## Structural Diagram
+
+The formal structure of the Akimov Theory of Unity (ToU) is represented by the following diagram:
+
+![ToU Structural Diagram](docs/Akimov_ToU_Diagram_v1.0.png)
+
+This diagram illustrates the emergence of perspective as a stable attractor in the joint dynamics of the world-model (M_w) and self-model (M_s).
+
+It serves as a visual formalization of the theoretical framework and supports further analytical, computational, and empirical development.
+
+---
+
 ## Core Idea
 
 Perspective emerges when the joint dynamics of (M_w, M_s) converge to a stable attractor.
