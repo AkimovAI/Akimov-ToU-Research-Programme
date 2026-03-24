@@ -5,12 +5,17 @@
 ## TL;DR
 
 The Akimov Theory of Unity (ToU) proposes that consciousness is not an intrinsic property of a system, but an emergent stable attractor arising from the interaction between a system’s internal world-model (M_w) and self-model (M_s).
-
 This work introduces a formal conceptual framework for perspectival organization in complex systems.
 
 ---
 
-## Citation / DOI
+## 🔬 Research Status
+Submission-ready academic material.  
+Currently under submission to arXiv.
+
+---
+
+## 📄 Citation / DO
 
 This work is publicly archived and citable via Zenodo:
 
@@ -22,7 +27,7 @@ https://doi.org/10.5281/zenodo.19141780
 
 ---
 
-## Official Submission PDF
+## 📥 Official Submission PDF
 
 Final official submission version:
 
