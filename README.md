@@ -1,11 +1,16 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19198910.svg)](https://doi.org/10.5281/zenodo.19198910)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19207652.svg)](https://doi.org/10.5281/zenodo.19207652)
 
 
 ## Citation / DOI
 
 This work is publicly archived and citable via Zenodo:
 
-DOI: https://doi.org/10.5281/zenodo.19198910
+Latest version (v1.5):
+DOI: https://doi.org/10.5281/zenodo.19207652
+
+All versions DOI:
+https://doi.org/10.5281/zenodo.19141780
+
 ---
 
 ## Official Submission PDF
