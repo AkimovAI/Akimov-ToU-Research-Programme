@@ -152,9 +152,23 @@ Currently under submission to arXiv.
 
 If you use or reference this work, please cite:
 
-Akimov, A. (2026).  
-*A Formal Framework for Perspectival Organization in Complex Systems*.  
-Zenodo. https://doi.org/10.5281/zenodo.19197979
+Akimov, Alex (2026).  
+*Akimov Theory of Unity (ToU): A Formal Framework for Perspectival Organization in Complex Systems.*  
+Zenodo. https://doi.org/10.5281/zenodo.19207652
+
+---
+
+### BibTeX
+
+```bibtex
+@misc{akimov2026tou,
+  author = {Akimov, Alex},
+  title = {Akimov Theory of Unity (ToU): A Formal Framework for Perspectival Organization in Complex Systems},
+  year = {2026},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.19207652}
+}
+```
 
 ---
 
