@@ -36,6 +36,10 @@ SHA-256 hashes of core documents:
 - Diagram (PNG v1.0):
 70527d8e42f21b1e01afa1ec11d1d5defd026593a268021a4cd13c9d1afefae0
 
+- Final PDF (Official Submission EN v1.5):
+3ef51db300a22f88460e90c08ba7e81e3f49ee1cddd3f704fae22636eb480bfd
+
+
 These hashes uniquely identify the exact content of the documents at the time of recording.
 
 ---
