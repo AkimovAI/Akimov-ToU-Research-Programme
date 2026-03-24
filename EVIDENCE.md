@@ -33,6 +33,9 @@ SHA-256 hashes of core documents:
 - DOCX (Master EN):
 7c3fd715d44e9d6cf4923531fe84e5fe5be9bb161653698db4492e1b6de0f14b
 
+- Diagram (PNG v1.0):
+70527d8e42f21b1e01afa1ec11d1d5defd026593a268021a4cd13c9d1afefae0
+
 These hashes uniquely identify the exact content of the documents at the time of recording.
 
 ---
