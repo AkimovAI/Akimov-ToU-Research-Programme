@@ -8,6 +8,15 @@ This work is publicly archived and citable via Zenodo:
 DOI: https://doi.org/10.5281/zenodo.19198910
 ---
 
+## Official Submission PDF
+
+Final official submission version:
+
+[Download the final PDF (EN, v1.5)](docs/Akimov_ToU_v1.5_Official_Submission_EN_2026.pdf)
+
+SHA-256:
+`3ef51db300a22f88460e90c08ba7e81e3f49ee1cddd3f704fae22636eb480bfd`
+
 ## Quick Entry Overview
 
 ### Akimov Theory of Unity (ToU)  
