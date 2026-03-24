@@ -7,11 +7,11 @@
 
 ## Description
 
-The Akimov Theory of Unity (ToU) is a conceptual research programme focused on the emergence of perspectival organization in complex systems.
+The Akimov Theory of Unity (ToU) is a formal research framework focused on the emergence of perspectival organization in complex systems.
 
 It proposes that what we call "perspective" (or conscious viewpoint) is not an intrinsic property of a system, but a stable dynamical state arising from the interaction between:
 
-- world-model (M_w)
+- world-model (M_w)  
 - self-model (M_s)
 
 ---
@@ -24,17 +24,45 @@ Consciousness is therefore not a thing, but a mode of organization.
 
 ---
 
+## Research Position
+
+This work is formulated as a **Lakatosian research programme**, providing:
+
+- a formal conceptual framework  
+- a core theoretical structure  
+- a basis for future empirical and computational testing  
+
+---
+
 ## Contents
 
-- docs/ → research documents (EN, SK, PDF)
-- legal/ → cryptographic proof (SHA-256 hash)
+- `docs/` → research documents (EN, SK, PDF)  
+- `legal/` → cryptographic proof (SHA-256 hash)  
 
 ---
 
 ## Status
 
-PUBLIC LOCK — Version 1.1  
-Submission-ready academic material.
+**PUBLIC LOCK — Version 1.1**  
+Submission-ready academic material.  
+Currently under submission to arXiv.
+
+---
+
+## Citation
+
+If you use or reference this work, please cite:
+
+Akimov, A. (2026).  
+*A Formal Framework for Perspectival Organization in Complex Systems*.  
+Zenodo. https://doi.org/10.5281/zenodo.19197979
+
+---
+
+## Keywords
+
+perspectival organization, complex systems, consciousness, artificial intelligence,  
+self-model, world-model, dynamical systems, emergence, cognitive systems
 
 ---
 
