@@ -1,24 +1,31 @@
 # Akimov Theory of Unity (ToU)
+
 Author: Ing. Alex Akimov
 Year: 2026
 Status: Under submission (arXiv)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19207652.svg)](https://doi.org/10.5281/zenodo.19207652)
 
-## TL;DR
+## Abstract
 
 The Akimov Theory of Unity (ToU) proposes that consciousness is not an intrinsic property of a system, but an emergent stable attractor arising from the interaction between a system’s internal world-model (M_w) and self-model (M_s).
 This work introduces a formal conceptual framework for perspectival organization in complex systems.
 
 ---
 
-## 🔬 Research Status
-Submission-ready academic material.  
-Currently under submission to arXiv.
+## Scope
+
+This work aims to formalize a unified framework for understanding consciousness as an emergent attractor in complex systems, bridging physics, information theory, and cognitive modeling.
 
 ---
 
-## 📄 Citation / DO
+## 🔬 Research Status
+SSubmission-ready academic manuscript.
+Currently under review/submission to arXiv.
+
+---
+
+## 📄 Citation / DOI
 
 This work is publicly archived and citable via Zenodo:
 
