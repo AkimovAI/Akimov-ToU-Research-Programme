@@ -1,5 +1,14 @@
+# Akimov Theory of Unity (ToU)
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19207652.svg)](https://doi.org/10.5281/zenodo.19207652)
 
+## TL;DR
+
+The Akimov Theory of Unity (ToU) proposes that consciousness is not an intrinsic property of a system, but an emergent stable attractor arising from the interaction between a system’s internal world-model (M_w) and self-model (M_s).
+
+This work introduces a formal conceptual framework for perspectival organization in complex systems.
+
+---
 
 ## Citation / DOI
 
