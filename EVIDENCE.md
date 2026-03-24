@@ -74,3 +74,20 @@ This record may be used as supporting evidence in:
 
 © 2026 Ing. Alex Akimov  
 All rights reserved.
+---
+
+## ToU 1-page Overview (EN) — Integrity Record
+
+### Entry ID: ToU-1P-EN-v1.0
+
+File: Akimov_ToU_1pager_EN_v1.0.pdf  
+Version: v1.0  
+Date: 2026-03-24  
+
+SHA-256:
+5bd60e7a9a4268a4855f74442adf438b16d7ac7bf9e98bd643416d8045bf80d1  
+
+This hash uniquely identifies the exact binary content of the document.  
+Any modification of the file will result in a different hash.
+
+This record serves as a cryptographic proof of authorship and integrity.
