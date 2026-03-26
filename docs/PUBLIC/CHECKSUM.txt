@@ -1,0 +1,7 @@
+SHA-256 Checksums:
+
+Akimov_ToU_Engine_v0.3_EN.pdf
+448488047a08b8dad668b6f8f57a4817a013bb8d7e622273c603509c261e2bd8
+
+Akimov_ToU_Engine_v0.3b_EN.pdf
+5572ca158cd2eb6df06a647f20bf2fdf544ab519f7211e62bf9df77268a598b3
