@@ -101,6 +101,7 @@ Zenodo. https://doi.org/10.5281/zenodo.19207652
 
 ## BibTeX
 
+```bibtex
 @misc{akimov2026tou,
   author = {Akimov, Alex},
   title = {Akimov Theory of Unity (ToU): A Formal Framework for Perspectival Organization in Complex Systems},
@@ -108,8 +109,7 @@ Zenodo. https://doi.org/10.5281/zenodo.19207652
   publisher = {Zenodo},
   doi = {10.5281/zenodo.19207652}
 }
-
----
+```
 
 ## Keywords
 
