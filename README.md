@@ -131,3 +131,13 @@ They did not contribute original theoretical content and do not hold authorship 
 
 © 2026 Ing. Alex Akimov  
 All rights reserved.
+
+---
+
+## Cryptographic Integrity
+
+SHA-256 (ToU v1.5 – Final PDF):  
+3ef51db300a22f88460e90c08ba7e81e3f49ee1cddd3f704fae22636eb480bfd  
+
+SHA-256 (Author Statement v1.9):  
+8a6f19eb0d3f4934f2b506e6677af7284b800989063582171397e49fa6822fd2
