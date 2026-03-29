@@ -141,3 +141,13 @@ SHA-256 (ToU v1.5 – Final PDF):
 
 SHA-256 (Author Statement v1.9):  
 8a6f19eb0d3f4934f2b506e6677af7284b800989063582171397e49fa6822fd2
+
+---
+
+## Licensing
+
+Code (ToU Engine): GNU AGPLv3  
+Theory & Documents: © Alex Akimov (All rights reserved)
+
+Commercial use requires a separate license.  
+See COMMERCIAL.md for details.
