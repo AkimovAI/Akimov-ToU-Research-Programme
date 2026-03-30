@@ -1,8 +1,28 @@
 # Akimov Theory of Unity (ToU)
 
-Author: Ing. Alex Akimov  
-Year: 2026  
-Status: Under submission (arXiv)  
+## Overview
+
+Akimov Theory of Unity (ToU) is a formal research framework proposing that consciousness emerges as a stable attractor from the interaction between internal system models.
+
+This repository contains:
+- the official research manuscript
+- cryptographic proof of authorship
+- licensing framework for controlled usage
+
+Author: Ing. Alex Akimov
+Year: 2026
+Status: Preprint (arXiv submission pending) 
+
+---
+
+## Why it matters
+
+This work provides a new formal lens for:
+- understanding consciousness in artificial systems
+- building next-generation AI architectures
+- bridging physics, cognition, and information theory
+
+It is designed as a long-term research programme with both theoretical and practical implications.
 
 ---
 
@@ -151,3 +171,23 @@ Theory & Documents: © Alex Akimov (All rights reserved)
 
 Commercial use requires a separate license.  
 See COMMERCIAL.md for details.
+
+Unauthorized use for AI training or dataset inclusion is prohibited without explicit permission.
+
+---
+
+## Usage & Licensing (Summary)
+
+This repository contains both open and restricted components:
+
+- Theoretical framework and documents are protected © Alex Akimov (All rights reserved)
+- The ToU Engine is licensed under GNU AGPLv3
+- Commercial use, integration, or derivative systems require explicit permission
+
+All theoretical content is the intellectual property of the author.
+Unauthorized commercial use or AI training usage is prohibited without explicit permission.
+
+For licensing inquiries:
+→ Email: alexakimov00@gmail.com
+
+Full terms are defined in the /legal directory.
