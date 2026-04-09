@@ -208,6 +208,12 @@ SHA-256 (Author Statement v1.9):
 Code (ToU Engine): GNU AGPLv3  
 Theory & Documents: © Alex Akimov (All rights reserved)
 
+### Patent Notice
+
+Certain concepts, formulations, and system architectures described in this repository may be subject to a pending provisional patent application (PPA) filed by the author.
+
+Commercial use and implementation of these concepts may require explicit licensing.
+
 Commercial use requires a separate license.  
 See COMMERCIAL.md for details.
 
