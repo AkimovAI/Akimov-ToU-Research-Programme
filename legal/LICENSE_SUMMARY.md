@@ -33,6 +33,8 @@ The licensing model is designed to:
 - License: AGPLv3 (or equivalent copyleft)
 - Requirement: derivative systems must remain open-source or obtain commercial license
 
+Note: While AGPLv3 permits commercial use of code, integration of the ToU system, theory, or outputs into commercial products requires a separate commercial license from the author.
+
 #### Legal Layer (legal/ directory)
 - Custom Akimov License Framework (ALF)
 - Defines:
