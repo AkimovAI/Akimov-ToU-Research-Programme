@@ -1,5 +1,44 @@
 # Akimov Theory of Unity (ToU)
 
+## Licensing and Usage Notice
+
+This repository contains components of the Akimov Theory of Unity (ToU), including theoretical frameworks, documentation, and potential technical implementations.
+
+### Licensing Structure
+
+- **Code components** are licensed under the GNU Affero General Public License v3 (AGPLv3), unless stated otherwise.
+- **Theory, framework, documentation, and conceptual system (ToU)** remain the intellectual property of Alex Akimov and are **not open-source**.
+
+### Important Restriction
+
+Use of this repository for:
+
+- commercial products  
+- proprietary AI systems  
+- SaaS platforms  
+- enterprise integrations  
+- model training using ToU logic or outputs  
+
+**requires a separate commercial license from the author.**
+
+### Derivative Works
+
+Any system that:
+
+- integrates ToU logic  
+- uses outputs or structures derived from ToU  
+- connects via API or other interfaces  
+
+is considered a **derivative system** and must:
+
+- comply with AGPLv3 (if open-source), OR  
+- obtain explicit commercial licensing
+
+### Contact
+
+For licensing, partnerships, or permissions:  
+**alexakimov00@gmail.com**
+
 ## Overview
 
 Akimov Theory of Unity (ToU) is a formal research framework proposing that consciousness emerges as a stable attractor from the interaction between internal system models.
