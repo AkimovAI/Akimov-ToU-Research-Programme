@@ -98,3 +98,47 @@ This hash uniquely identifies the exact binary content of the document.
 Any modification of the file will result in a different hash.
 
 This record serves as a cryptographic proof of authorship and integrity.
+
+---
+
+## Evidence Record — ToU v2.1 (Zenodo Release)
+
+Author: Ing. Alex Akimov  
+Year: 2026
+
+### Purpose
+
+This section records the authorship, publication traceability, and cryptographic integrity of the ToU v2.1 release.
+
+### Canonical Public Release
+
+**Akimov Theory of Unity (ToU): Core Framework v2.1 — A Formal Framework for System, State, Observer, and Stability**
+
+Zenodo DOI:  
+**10.5281/zenodo.19477423**
+
+### Cryptographic Integrity
+
+Reference file:  
+**Akimov_ToU_Core_Framework_v2.1_EN-2.pdf**
+
+SHA-256:  
+**92c805409d833ac65253eaaa2813edc40c7e0e9cf6143983f86c96a9ca30c8999**
+
+### Patent and Authorship Note
+
+Certain materials, formulations, and system concepts referenced in this repository are related to a USPTO Provisional Patent Application (PPA) filed by the author.
+
+Public materials are provided for research visibility, authorship traceability, and controlled disclosure only.
+
+All conceptual structure, formalization, and theoretical content originate from and are authored by **Ing. Alex Akimov**, unless explicitly stated otherwise.
+
+### Repository Role
+
+This repository serves as a supplementary public record for:
+- structured documentation
+- licensing clarification
+- integrity verification
+- release traceability
+
+The canonical citable version is the Zenodo release (DOI-referenced).
